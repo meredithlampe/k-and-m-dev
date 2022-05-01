@@ -1,2 +1,6 @@
 [26-Apr-2022 22:59:11] NOTICE: fpm is running, pid 80101
 [26-Apr-2022 22:59:11] NOTICE: ready to handle connections
+[30-Apr-2022 11:09:48] NOTICE: Terminating ...
+[30-Apr-2022 11:09:48] NOTICE: exiting, bye-bye!
+[30-Apr-2022 11:11:31] NOTICE: fpm is running, pid 95934
+[30-Apr-2022 11:11:31] NOTICE: ready to handle connections

@@ -14,7 +14,7 @@ get_header();
 
 <main id="site-content">
 
-	<?php
+<?php
 
 	if ( have_posts() ) {
 
