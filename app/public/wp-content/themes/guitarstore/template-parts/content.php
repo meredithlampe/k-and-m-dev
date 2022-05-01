@@ -17,6 +17,8 @@
 
 		<div id="guitar-store-content">
 
+			<h2 class="guitar-header">k and m guitars</h2>
+
 			<?php
 			if ( is_search() || ! is_singular() && 'summary' === get_theme_mod( 'blog_content', 'full' ) ) {
 				the_excerpt();

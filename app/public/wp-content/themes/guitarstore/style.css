@@ -3482,7 +3482,14 @@ figure.wp-block-table.is-style-stripes {
 /* -------------------------------------------------------------------------- */
 
 .guitar-header {
-	margin-bottom:  -50px;
+	margin-bottom:  -10px;
+	z-index: 10;
+	background-color:  cyan;
+	font-family:  base-mono-wide;
+	font-weight:  bold;
+	font-size:  1.5em;
+	margin-top:  0px;
+	position:  absolute;
 }
 
 
